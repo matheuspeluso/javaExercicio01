@@ -12,7 +12,8 @@ Professor: Sergio Mendes
     <img src="./printsDoProjeto/cpf.png" width="300px">
     <img src="./printsDoProjeto/matricula.png" width="300px">
     <img src="./printsDoProjeto/salario.png" width="300px">
-    <img src="./printsDoProjeto/dados gravados com sucesso.png" width="300px">
+    <img src="./printsDoProjeto/dadosGravadosComSucesso.png" width="300px">
+    <img src="./printsDoProjeto/ArquivoTxt.png" width="300px">
 </div>
 
 
